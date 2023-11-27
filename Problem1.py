@@ -53,3 +53,9 @@ result = minimize(g, initial_guess, const = linear_const, bounds = bounds, args 
 
 # Print or analyze the obtained result
 print(result)
+
+
+
+
+
+Hieu dep trai??
